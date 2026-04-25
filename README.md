@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an AI Engineer and Data Scientist, I build intelligent systems and uncover hidden patterns in data, making technology work smarter, not just harder. From crafting RAG-powered chatbots to developing award-winning crime reporting systems, I'm always up for a challenge that pushes the boundaries of innovation.
+I am an AI Engineer, I build intelligent systems and uncover hidden patterns in data, making technology work smarter, not just harder. From crafting RAG-powered chatbots to developing award-winning crime reporting systems, I'm always up for a challenge that pushes the boundaries of innovation.
 
 
 ## 🌐 Socials:
